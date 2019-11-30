@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 
 
-data = pd.read_csv("FemPreg2002.csv")
+data = pd.read_csv("FemPreg.csv")
 
 
 # 6a print preg outcomes for caseid 10229
